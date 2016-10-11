@@ -60,3 +60,6 @@
 
 
 ```
+
+## Demo截图
+![demo](https://github.com/arthas001/HPSwitchView/blob/master/1.png)
